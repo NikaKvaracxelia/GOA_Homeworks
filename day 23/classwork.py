@@ -82,5 +82,7 @@ draw_square()
 
 
 exitonclick()
+
+
 print("join goa")
 print("join goa")
